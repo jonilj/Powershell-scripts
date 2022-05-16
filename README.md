@@ -1,2 +1,2 @@
-# Powershell_Scripts
-A collection of Powershell-scripts
+# Powershell-scripts
+A collection of Powershell-scripts.
